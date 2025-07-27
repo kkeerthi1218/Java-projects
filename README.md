@@ -1,33 +1,3 @@
-# Java-projects
+# ATM interface program using Java
 
-# 🎓 Student Management System in Java
-
-A simple *console-based Java application* to manage student information, built using object-oriented programming concepts. This project allows you to *add, **view, **search, and **delete* student records easily.
-
----
-
-## 📌 Features
-
-- Add new student with unique ID
-- View all student records
-- Search student by ID
-- Delete student record
-- In-memory data management using ArrayList
-
----
-
-## 🛠️ Technologies Used
-
-- *Language:* Java
-- *IDE:* Eclipse / IntelliJ 
-- *Data Structure:* ArrayList
-- (No database used — simple and beginner-friendly)
-
----
-
-## 🚀 Getting Started
-
-### ✅ Prerequisites
-
-- Java JDK 8 or above
-- Any Java IDE or terminal for compiling
+A Java program can be written to simulate ATM transactions. The user must choose an option from the possibilities shown on the screen. The choices include those to withdraw money, deposit money, check your balance, and leave.
